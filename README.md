@@ -19,6 +19,8 @@ This project focuses on analyzing Airbnb listings data to extract meaningful ins
 - Jupyter Notebook
 
 ## Dataset Description
+
+data : https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
 The dataset includes Airbnb listings with features such as:
 - Price
 - Minimum nights
